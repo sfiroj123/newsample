@@ -17,6 +17,7 @@ public class SampleTest {
 		driver.get("https://www.google.co.uk");
 		driver.close();
 		System.out.println(" test pass");
+		System.out.println("updated from git hub");
 		
 	}
 	
