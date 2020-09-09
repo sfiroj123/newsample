@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="com.simplemaven.framework.sampleselenium.SampleTest" duration-ms="6814" started-at="2018-02-04T18:32:30Z" finished-at="2018-02-04T18:32:37Z">
+  <suite name="com.simplemaven.framework.sampleselenium.SampleTest" duration-ms="11221" started-at="2020-09-09T21:29:03Z" finished-at="2020-09-09T21:29:14Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="6814" started-at="2018-02-04T18:32:30Z" finished-at="2018-02-04T18:32:37Z">
+    <test name="Command line test" duration-ms="11221" started-at="2020-09-09T21:29:03Z" finished-at="2020-09-09T21:29:14Z">
       <class name="com.simplemaven.framework.sampleselenium.SampleTest">
-        <test-method status="PASS" signature="Login()[pri:0, instance:com.simplemaven.framework.sampleselenium.SampleTest@3d24753a]" name="Login" duration-ms="6789" started-at="2018-02-04T18:32:30Z" finished-at="2018-02-04T18:32:37Z">
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.simplemaven.framework.sampleselenium.SampleTest@7a79be86]" name="Login" duration-ms="11201" started-at="2020-09-09T22:29:03Z" finished-at="2020-09-09T22:29:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->

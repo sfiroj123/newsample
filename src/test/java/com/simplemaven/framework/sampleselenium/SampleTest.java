@@ -15,6 +15,7 @@ public class SampleTest {
 	System.setProperty("webdriver.chrome.driver", "D:\\chromedriver.exe");
 		WebDriver driver= new ChromeDriver();
 		driver.get("https://www.google.co.uk");
+		driver.close();
 		
 		
 	}
