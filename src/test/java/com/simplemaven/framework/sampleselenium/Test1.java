@@ -6,7 +6,8 @@ public class Test1 {
 		// TODO Auto-generated method stub
 		System.out.println(" Second class");
 		System.out.println(" New udpate class");
-		
+		System.out.println("Updated1 from GitHub Thursday1");
+		System.out.println("Updated2 from GitHub Thursday2"");
 
 	}
 
